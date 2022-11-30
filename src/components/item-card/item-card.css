@@ -1,0 +1,19 @@
+.canvas{
+    width: 80%;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    padding: 20px
+}
+
+.dynamic-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-item-column{
+    flex-direction: column;
+}
+
+.flex-item-row{
+    flex-direction: row;
+}
