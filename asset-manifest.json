@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kokoedti/Test-Agres.git/static/css/main.88a28a58.css",
-    "main.js": "/kokoedti/Test-Agres.git/static/js/main.22f89de7.js",
+    "main.js": "/kokoedti/Test-Agres.git/static/js/main.ed618e9b.js",
     "static/js/787.f7f7de13.chunk.js": "/kokoedti/Test-Agres.git/static/js/787.f7f7de13.chunk.js",
     "index.html": "/kokoedti/Test-Agres.git/index.html",
     "main.88a28a58.css.map": "/kokoedti/Test-Agres.git/static/css/main.88a28a58.css.map",
-    "main.22f89de7.js.map": "/kokoedti/Test-Agres.git/static/js/main.22f89de7.js.map",
+    "main.ed618e9b.js.map": "/kokoedti/Test-Agres.git/static/js/main.ed618e9b.js.map",
     "787.f7f7de13.chunk.js.map": "/kokoedti/Test-Agres.git/static/js/787.f7f7de13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88a28a58.css",
-    "static/js/main.22f89de7.js"
+    "static/js/main.ed618e9b.js"
   ]
 }
